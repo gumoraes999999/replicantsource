@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote  name="korg"
-           fetch="git://git.omapzoom.org/"
+           fetch="https://git.omapzoom.org/"
            review="review.source.android.com" />
-  <remote name="github" fetch="git://github.com/" review="review.cyanogenmod.com" />
-  <remote name="gitorious" fetch="git://gitorious.org/" />
+  <remote name="github" fetch="https://github.com/" review="review.cyanogenmod.com" />
+  <remote name="gitorious" fetch="https://gitorious.org/" />
 
   <default revision="froyo"
            remote="korg" />
